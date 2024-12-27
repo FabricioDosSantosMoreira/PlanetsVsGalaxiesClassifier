@@ -1,4 +1,4 @@
-# 🌠 Planets Vs Galaxies Classifier
+# 🌠 Planets Vs Galaxies Image Classifier
 
 ## Overview
 PlanetsVsGalaxiesClassifier is a Machine Learning project aimed at classifying astronomical images into two categories: planets and galaxies. This project leverages deep learning techniques to achieve high accuracy in image classification tasks. The image dataset was built by me.
