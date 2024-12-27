@@ -1,7 +1,7 @@
 # 🌠 Planets Vs Galaxies Classifier
 
 ## Overview
-PlanetsVsGalaxiesClassifier is a machine learning project aimed at classifying astronomical images into two categories: planets and galaxies. This project leverages deep learning techniques to achieve high accuracy in image classification tasks.
+PlanetsVsGalaxiesClassifier is a Machine Learning project aimed at classifying astronomical images into two categories: planets and galaxies. This project leverages deep learning techniques to achieve high accuracy in image classification tasks. The image dataset was built by me.
 
 
 ## Features
@@ -13,7 +13,7 @@ PlanetsVsGalaxiesClassifier is a machine learning project aimed at classifying a
 - Model evaluation and performance metrics
 
 
-## Installation
+## 📋 Installation
 To get started with the PlanetsVsGalaxiesClassifier, you can go directly to the Google Colab Link
 
 ```bash
@@ -21,17 +21,17 @@ Link:
 ```
 
 
-## Project Structure
-- `Dataset/`: Directory for the dataset and image credits
+## ⚙ Project Structure
+- `Dataset/`: Directory for the dataset and image credits.
+- `Model/`: Directory for the trained model.
 
-
-## Contributing
+## 💡 Contributing
 Feel free to contribute! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 
-## License
+## 💭 Acknowledgements
+Special thanks to [NASA Image Library](https://images.nasa.gov/) and [Google Colab](https://colab.research.google.com/).
+
+
+## 📃 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) for more information.
-
-
-## Acknowledgements
-Special thanks to NASA and Google Colab.
