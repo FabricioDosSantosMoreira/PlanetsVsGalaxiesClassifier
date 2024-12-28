@@ -1,29 +1,40 @@
 # 🌠 Planets Vs Galaxies Image Classifier
 
-## Overview
-PlanetsVsGalaxiesClassifier is a Machine Learning project aimed at classifying astronomical images into two categories: planets and galaxies. This project leverages deep learning techniques to achieve high accuracy in image classification tasks. The image dataset was built by me.
+## 🔭 Overview
+Planets Vs Galaxies Classifier is a Machine Learning project designed to classify astronomical images into two categories: planets and galaxies. The project leverages a custom image dataset created from scratch, with all processing and testing conducted in Google Colab.
 
 
-## Features
-- Image dataset made by me
-- Image preprocessing
-- Data Augmentation
-- Convolutional Neural Network (CNN) architecture
-- Training and validation pipelines
-- Model evaluation and performance metrics
+## 🌐 Features
+- Custom Image Dataset
+- Dataset Preprocessing
+- Dataset Augmentation
+- Convolutional Neural Network (CNN) Architecture
+- Training and Validation Pipelines
+- Metrics Evaluation
+- Model Evaluation
 
 
-## 📋 Installation
-To get started with the PlanetsVsGalaxiesClassifier, you can go directly to the Google Colab Link
+## 📋 Usage and Testing
+To get started with Planets Vs Galaxies Image Classifier, you can go directly to the Google Colab Link.
 
 ```bash
-Link: 
+Google Colab:  
+```
+
+If you prefer running the project locally, clone the repository. Please note that dependency versions may vary.
+```bash
+# Cloning the repository
+git clone https://github.com/FabricioDosSantosMoreira/PlanetsVsGalaxiesClassifier.git
+
+# Installing dependencies
+pip install -r requirements.txt
 ```
 
 
 ## ⚙ Project Structure
-- `Dataset/`: Directory for the dataset and image credits.
+- `Dataset/`: Directory for the dataset.
 - `Model/`: Directory for the trained model.
+- `requirements.txt`: List for the project dependencies.
 
 
 ## 💡 Contributing
