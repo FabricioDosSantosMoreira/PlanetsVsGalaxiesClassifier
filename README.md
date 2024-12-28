@@ -25,13 +25,14 @@ Link:
 - `Dataset/`: Directory for the dataset and image credits.
 - `Model/`: Directory for the trained model.
 
+
 ## 💡 Contributing
 Feel free to contribute! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 
-## 💭 Acknowledgements
-Special thanks to [NASA Image Library](https://images.nasa.gov/) and [Google Colab](https://colab.research.google.com/).
-
-
 ## 📃 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) for more information.
+
+
+## 💭 Acknowledgements
+Special thanks to [NASA Image Library](https://images.nasa.gov/) and [Google Colab](https://colab.research.google.com/).
