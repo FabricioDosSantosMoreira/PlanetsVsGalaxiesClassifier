@@ -23,7 +23,7 @@ To get started with Planets Vs Galaxies Image Classifier, you can go directly to
 
 If you prefer running the project locally, clone the repository. Please note that dependency versions may vary.
 ```bash
-# Cloning the repository
+# Cloning:
 git clone https://github.com/FabricioDosSantosMoreira/PlanetsVsGalaxiesClassifier.git
 ```
 
@@ -31,7 +31,6 @@ git clone https://github.com/FabricioDosSantosMoreira/PlanetsVsGalaxiesClassifie
 ## ⚙ Project Structure
 - `Dataset/`: Directory for the dataset.
 - `Model/`: Directory for the trained model.
-- `requirements.txt`: List for the project dependencies.
 
 
 ## 💡 Contributing
