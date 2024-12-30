@@ -18,12 +18,11 @@ Planets Vs Galaxies Classifier is a Machine Learning project designed to classif
 To get started with Planets Vs Galaxies Image Classifier, you can go directly to the Google Colab Link.
 
 ```bash
-# Google Colab:  
+https://colab.research.google.com/drive/13vwkcfclhUynVIVa8Grw3FJCq8bMJOOS?usp=sharing
 ```
 
 If you prefer running the project locally, clone the repository. Please note that dependency versions may vary.
 ```bash
-# Cloning:
 git clone https://github.com/FabricioDosSantosMoreira/PlanetsVsGalaxiesClassifier.git
 ```
 
